@@ -1,0 +1,305 @@
+<li class="mm_menus_li mm_sub_align_full mm_has_sub">
+                <a href="https://parapharma.ma/10-visage" style="font-size:12px;">
+                    <span class="mm_menu_content_title">
+                                                Visage
+                        <span class="mm_arrow"></span>                                            </span>
+                </a>
+                                                    <span class="arrow closed"></span>                                            <ul class="mm_columns_ul" style=" width:100%; font-size:12px;">
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="204" class="mm_blocks_li">
+                                                        
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4" style="font-size:12px"><a href="https://parapharma.ma/1000-eclat-du-teint" style="font-size:12px">ÉCLAT DU TEINT</a></span>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li>
+                <a href="https://parapharma.ma/1007-accessoires">Accessoires</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/1001-bb-creme">BB crème</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/1004-cc-cremes">CC Crèmes</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/1005--cremes-teintees">Crèmes Teintées</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/1002-dd-creme">DD crème</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/1006-fond-de-teint-">Fond de Teint</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/1003-illuminateurs-de-teint">Illuminateurs de teint</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="205" class="mm_blocks_li">
+                                                        
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4" style="font-size:12px"><a href="https://parapharma.ma/512-yeux-levres-" style="font-size:12px">YEUX &amp; LÈVRES</a></span>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li>
+                <a href="https://parapharma.ma/515--anti-cernes-poches">Anti-cernes &amp; poches</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/516--cils-sourcils">Cils &amp; Sourcils</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/514-contour-des-yeux-et-levres">Contour des yeux et lèvres</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/513-demaquillants">Démaquillants</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/518-hydratants">Hydratants</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/520-masques-et-patchs">Masques et Patchs</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/519-solaires">Solaires</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="207" class="mm_blocks_li">
+                                                        
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4" style="font-size:12px"><a href="https://parapharma.ma/529-type-de-peaux" style="font-size:12px">Type de peaux</a></span>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li>
+                <a href="https://parapharma.ma/534-peau-mate-foncee">Peau mate &amp; foncée</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/533-peau-mixte-a-grasse">Peau mixte à grasse</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/530-peau-normale">Peau normale</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/531--peau-seche">Peau sèche</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/532-peau-sensible">Peau sensible</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/535-peaux-atopiques">Peaux Atopiques</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/536-tout-type-de-peaux">Tout type de peaux</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="208" class="mm_blocks_li">
+                                                        
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4" style="font-size:12px"><a href="https://parapharma.ma/537-soins-anti-age" style="font-size:12px">Soins Anti-âge</a></span>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li>
+                <a href="https://parapharma.ma/540-anti-rides-fermete">Anti-rides &amp; Fermeté</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/542-masque">Masque</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/539-premieres-rides">Premières rides</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/544-serum">Sérum</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/538-soins-anti-age">Soins anti-âge</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/541-taches-liees-a-l-age">Taches liées à l'âge</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/543-yeux-levres-cou">Yeux, Lèvres &amp; Cou</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="209" class="mm_blocks_li">
+                                                        
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4" style="font-size:12px"><a href="https://parapharma.ma/545-acne-imperfections" style="font-size:12px">Acné &amp; Imperfections</a></span>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li>
+                <a href="https://parapharma.ma/550-cremes-et-soins-traitants">Crèmes et Soins Traitants</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/549-gommages-masques">Gommages &amp; Masques</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/548-hydratants-traitants">Hydratants &amp; Traitants</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/547-lotions-toniques">Lotions &amp; Toniques</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/552-masques-et-exfoliants">Masques et Exfoliants</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/546-nettoyants-demaquillants">Nettoyants &amp; Démaquillants</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/551-solaires">Solaires</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="210" class="mm_blocks_li">
+                                                        
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4" style="font-size:12px"><a href="https://parapharma.ma/553-hydratants-nourrissants" style="font-size:12px">HYDRATANTS &amp; EXFOLIANTS</a></span>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li>
+                <a href="https://parapharma.ma/558-brumisateurs-d-eau">Brumisateurs d'eau</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/577--gommages-et-exfoliants">Gommages et Exfoliants</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/555--huiles">Huiles</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/557-masques">Masques</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/554-soins-de-jour">Soins de jour</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/559-soins-de-jour-avec-spf">Soins de jour avec SPF</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/556-soins-de-nuit">Soins de nuit</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="212" class="mm_blocks_li">
+                                                        
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4" style="font-size:12px"><a href="https://parapharma.ma/568-bio" style="font-size:12px">Bio</a></span>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li>
+                <a href="https://parapharma.ma/573-acne-imperfection-">Acné &amp; Imperfection</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/569-anti-age-">Anti âge</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/571-anti-taches-">Anti taches</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/575-gommage-exfoliant-">Gommage &amp; Exfoliant</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/572-hydratation-">Hydratation</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/576-nettoyant-">Nettoyant</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/574-yeux-levres-">Yeux &amp; Lèvres</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                            <li class="mm_columns_li column_size_3  mm_has_sub">
+                                                                            <ul class="mm_blocks_ul">
+                                                                                            <li data-id-block="217" class="mm_blocks_li">
+                                                        
+    <div class="ets_mm_block mm_block_type_category ">
+        <span class="h4" style="font-size:12px"><a href="https://parapharma.ma/491-soins-cibles" style="font-size:12px">Soins ciblés</a></span>
+        <div class="ets_mm_block_content">        
+                                <ul class="ets_mm_categories">
+                    <li>
+                <a href="https://parapharma.ma/497-anti-pollution">Anti-pollution</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/493-anti-rougeurs">Anti-rougeurs</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/494-anti-taches-depigmentants">Anti-taches &amp; Dépigmentants</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/496-peaux-noires-metisses">Peaux noires &amp; métisses</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/492-peaux-sensibles-atopiques">Peaux sensibles &amp; atopiques</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/495-reparateurs-anti-bacteriens">Réparateurs &amp; Anti-bactériens</a>
+                            </li>
+                    <li>
+                <a href="https://parapharma.ma/498-solaire">Solaire</a>
+                            </li>
+            </ul>
+                    </div>
+    </div>
+    <div class="clearfix"></div>
+
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                                                </li>
