@@ -12,19 +12,20 @@ from products_array import products_globale
 
 
 
-link = 'https://citymall-para.ma/produit/clearium-creme-eclaircissante-30ml/'
+link = 'https://citymall-para.ma/produit/acm-duolys-c-e-serum-intensif-anti-oxydant-15ml/'
 product = []
 
 products_inexist_link = []
 products = []
-start = 290
-stop = 300
+start = 1001
+stop = len(products_globale)
 
 def scrapSingleProduct(link):
     result = requests.get(link)
     src=result.content
     soup = BeautifulSoup(src,'html.parser')
     product_title = soup.find('h1',{'class':'product-title product_title entry-title'})
+    product_unit = 'N/A'
     if product_title:
         product_title = product_title.get_text().strip()
     else :
@@ -50,7 +51,9 @@ def scrapSingleProduct(link):
 
     product_brand = soup.find('span',{'class':'tagged_as'})
     # product_gallery = soup.find_all('div',{'class':'flickity-viewport'})
-    # product_gallery = soup.find_all('img',{'width':'247','height':'296','class':'attachment-woocommerce_thumbnail entered lazyloaded'})
+    product_gallery = soup.find('div',{'class':'product-gallery'})
+    a_gallery = soup.find_all('img',class_='attachment-woocommerce_thumbnail entered lazyloaded')
+    # product_gallery = soup.find('img',{'width':'247','height':'296','class':'attachment-woocommerce_thumbnail entered lazyloaded'})
     if product_brand:
         product_brand = product_brand.find('a').get_text()
     else :
@@ -59,25 +62,31 @@ def scrapSingleProduct(link):
     # check if brand exist
     brand = getBrandId(product_brand) if product_brand else 'N/A'
     # product_categories =  soup.find('span',{'class':'posted_in'}).find_all('a')
-    product_categories =  soup.find('nav',{'class':'woocommerce-breadcrumb breadcrumbs uppercase'}).find_all('a')
-    product_category = extractCategory(product_categories)
-    item = {
-        'title':product_title,
-        'price':product_price,
-        # 'code':product_code,
-        'brand':product_brand,
-        'unit':product_unit,
-        's-s-category':product_category,        
-    }
-    return item
+    # product_categories =  soup.find('nav',{'class':'woocommerce-breadcrumb breadcrumbs uppercase'})
+    # if product_categories:
+    #     links = product_categories.find_all('a')
+    #     product_category = extractCategory(links)
+    # else :
+    #     product_category = 'N/A'
+    # item = {
+    #     'title':product_title,
+    #     'price':product_price,
+    #     # 'code':product_code,
+    #     'brand':product_brand,
+    #     'unit':product_unit,
+    #     's-s-category':product_category,        
+    # }
 
-for i in range(start, stop + 1):    
-    products.append(scrapSingleProduct(products_globale[i]))
-    print(products_globale[i])
+    # return item
+    print(len(a_gallery))
+
+# for i in range(start, stop):    
+#     products.append(scrapSingleProduct(products_globale[i]))
+#     print(products_globale[i])
 
 
-df=pd.DataFrame(products)
-df.to_excel('products_details.xlsx')
+# df=pd.DataFrame(products)
+# df.to_excel(f"products_details_{start}_{stop}.xlsx")
 
 # print(scrapSingleProduct(link))
-# scrapSingleProduct(link)
+scrapSingleProduct(link)
