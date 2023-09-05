@@ -9,9 +9,11 @@ WebDriver BiDi listening on ws://127.0.0.1:49753
 Read port: 49762
 1693860567367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:49753/devtools/browser/c4d5688c-d445-4627-a2eb-34d89a21e9e0
-1693860689973	geckodriver	INFO	Listening on 127.0.0.1:49953
-1693860693028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Azerty\\AppData\\Local\\Temp\\rust_mozprofileCkIBSM"
-console.warn: services.settings: Ignoring preference override of remote settings server
+1693868266857	Marionette	INFO	Stopped listening on port 49762
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+nsole.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1693860693415	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -31,9 +33,11 @@ _adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
 maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
 
 console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
-1693862172728	geckodriver	INFO	Listening on 127.0.0.1:50836
-1693862175808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Azerty\\AppData\\Local\\Temp\\rust_mozprofileqY7Hbl"
-console.warn: services.settings: Ignoring preference override of remote settings server
+1693868266875	Marionette	INFO	Stopped listening on port 49962
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+nsole.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1693862176163	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -42,3 +46,7 @@ WebDriver BiDi listening on ws://127.0.0.1:50837
 Read port: 50845
 1693862176524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:50837/devtools/browser/972fe98a-0dce-432b-a6a2-d19a8d474b3e
+1693868266880	Marionette	INFO	Stopped listening on port 50845
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

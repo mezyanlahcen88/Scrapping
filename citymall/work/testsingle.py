@@ -17,8 +17,8 @@ product = []
 
 products_inexist_link = []
 products = []
-start = 1000
-stop = 2745
+start = 300
+stop = 1000
 
 def scrapSingleProduct(link):
     result = requests.get(link)
@@ -44,13 +44,13 @@ def scrapSingleProduct(link):
         product_price = "N/A"
     product_desc = soup.find('div',{'id':'tab-description'})
     if product_desc:
-        product_desc = product_desc
+        product_desc = product_desc.text
     else:
         product_desc = "N/A"
 
     product_short_desc = soup.find('div',{'class':'product-short-description'})
     if product_short_desc:
-        product_short_desc = product_short_desc
+        product_short_desc = product_short_desc.text
     else:
         product_short_desc = "N/A"
 
@@ -82,13 +82,13 @@ def scrapSingleProduct(link):
 
     return item
 
-for i in range(start, stop):    
-    products.append(scrapSingleProduct(products_globale[i]))
-    print(products_globale[i])
+# for i in range(start, stop):    
+#     products.append(scrapSingleProduct(products_globale[i]))
+#     print(products_globale[i])
 
 
-df=pd.DataFrame(products)
-df.to_excel(f"products_details_all_{start}_{stop}.xlsx")
+# df=pd.DataFrame(products)
+# df.to_excel(f"products_details_all_{start}_{stop}.xlsx")
 
-# print(scrapSingleProduct(link))
+print(scrapSingleProduct(link))
 # scrapSingleProduct(link)
